@@ -1,0 +1,2 @@
+# thurs
+templates and stuff
